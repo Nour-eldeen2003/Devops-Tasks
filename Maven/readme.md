@@ -43,8 +43,8 @@ Check that the application starts successfully and produces expected output.
 ## Expected Output
 # My Project Screenshots
 
-![Maven Verification](Docs/_assets/.MavenVerify.png)
-)
+![Maven Verification](.MavenVerify.png)
+
 
 
 
