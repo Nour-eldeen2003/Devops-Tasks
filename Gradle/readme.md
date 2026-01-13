@@ -14,11 +14,11 @@ Install Gradle, clone source code, run unit tests, build and run a Java applicat
 ```fish
 sudo apt update
 sudo apt install gradle
-
+```
 ### Step 2: Clone Source Code
 git clone https://github.com/Ibrahim-Adel15/build1.git
 cd build1
-```
+
 
 ### Step 3: Run Unit Tests
 ```fish
