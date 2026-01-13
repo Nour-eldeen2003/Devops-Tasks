@@ -18,11 +18,13 @@ sudo apt install gradle
 ### Step 2: Clone Source Code
 git clone https://github.com/Ibrahim-Adel15/build1.git
 cd build1
+```
 
 ### Step 3: Run Unit Tests
 ```fish
 gradle test
 ```
+
 
 ### Step 4: Build Application
 ```fish
@@ -33,9 +35,13 @@ gradle build
 ### Step 5: Run Application
 ```fish
 java -jar build/libs/ivolve-app.jar
-
+```
 
 ## Expected Output
 
 ![Gradle Run Output](GradleRunOutput.png)
 
+
+
+## Author
+**Nour Eldeen Mohamed** 
